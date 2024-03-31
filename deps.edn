@@ -1,0 +1,2 @@
+{:paths []
+ :deps {org.clojure.clr/tools.nrepl {:mvn/version "0.1.0-alpha1"}}}
